@@ -8,4 +8,4 @@ Sorting Algorithms
 * Bubble Sort
 * Insertion Sort
 * Merge Sort
-* QUick Sort
+* Quick Sort
