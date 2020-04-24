@@ -1,9 +1,11 @@
-# Golang Data Structure and Algorithm Study
+Golang Data Structure and Algorithm Study
+===
 
-## Sorting Algorithms
+Sorting Algorithms
+---
 
-- Selection Sort
-- Bubble Sort
-- Insertion Sort
-- Merge Sort
-- QUick Sort
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* QUick Sort
