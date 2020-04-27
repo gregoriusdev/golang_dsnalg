@@ -12,13 +12,13 @@ func main() {
     fmt.Println("before : ", arr)
     var sortedArr []int
     /*
-    sortedArr = MergeSort(arr)
+    sortedArr = sorting.MergeSort(arr)
     fmt.Println("after merge sort : ", sortedArr)
-    sortedArr = SelectionSort(arr)
+    sortedArr = sorting.SelectionSort(arr)
     fmt.Println("after selection sort : ", sortedArr)
-    sortedArr = BubbleSort(arr)
+    sortedArr = sorting.BubbleSort(arr)
     fmt.Println("after bubble sort : ", sortedArr)
-    sortedArr = InsertionSort(arr)
+    sortedArr = sorting.InsertionSort(arr)
     fmt.Println("after insertion sort : ", sortedArr)
     */
     sortedArr = sorting.QuickSort(arr)
